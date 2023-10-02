@@ -1,0 +1,39 @@
+.card {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 100%;
+    width: 100vw;
+    height: 112vh;
+}
+
+.color1 {
+    background-color: #82CAFA;
+    z-index: 30;
+
+}
+
+.color2 {
+    z-index: 20;
+    background-color: #151B54;
+}
+
+.color3 {
+    background-color: #0C090A;
+    z-index: 11;
+
+}
+
+
+.errorElelight {
+    height: 100vh;
+    width: 100vw;
+    text-align: "center";
+    color: white;
+}
+.errorEledark {
+    height: 100vh;
+    width: 100vw;
+    text-align: "center";
+    color: black;
+}

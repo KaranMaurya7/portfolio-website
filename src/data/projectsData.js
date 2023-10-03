@@ -30,7 +30,7 @@ export const projectsData = [
         id: 4,
         title: 'Ipod',
         discription: `The virtual iPod project, developed using React.js, raw CSS, and the Context API, is a unique and innovative application that recreates the classic iPod interface in a web environment. React.js, with its component-based architecture, is used to build the interactive UI of the iPod, including the iconic click wheel and menu system. What sets this project apart is the use of the Context API, a feature of React that provides a way to pass data through the component tree without having to pass props down manually at every level. In this project, the Context API is used to manage the state of the application, such as the currently selected menu item or the song that is playing.`,
-        code:'React',deploy: true,
+        code:'React',deploy: false,
         github:'https://github.com/KaranMaurya7/iPod',
         demo:'https://virtual-ipod.netlify.app/'
     },

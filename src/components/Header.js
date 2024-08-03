@@ -41,7 +41,7 @@ export function Header({ dark }) {
                     <p>
                         As a skilled and passionate web developer, I am dedicated to turning ideas into innovative and user-friendly web applications. Explore my various projects showcasing my skills in web development.
                     </p>
-                    <Link to='./Resume Karan.pdf' target='_blank' rel="noopener noreferrer">
+                    <Link to='./Resume.pdf' target='_blank' rel="noopener noreferrer">
 
                         <button className={dark ? 'buttonDark' : 'buttonLight'}>Resume</button>
                     </Link>
